@@ -24,6 +24,6 @@ Sie können das Projekt über den folgenden Link herunterladen und nach Ihren Be
 
 ## Screenshot
 
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot/Screenshot.png)
 
 
